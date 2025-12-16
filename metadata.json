@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Nose Ninja",
+  "description": "A festive AR game where you slice fruits using your nose! Features face tracking, multiple levels, hidden boss stages, and a leaderboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
